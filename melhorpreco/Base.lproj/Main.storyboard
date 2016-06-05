@@ -68,6 +68,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="M9U-Xa-ZyA" id="bnQ-1Q-RsA">
+                                                    <rect key="frame" x="0.0" y="0.0" width="240" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jum-hc-0du">
@@ -117,6 +118,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WOv-OF-WIv" id="uhJ-KD-fy3">
+                                                    <rect key="frame" x="0.0" y="0.0" width="240" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SAV-j0-1SA">
@@ -166,6 +168,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="0Bb-7m-PN8" id="T53-Kc-SCd">
+                                                    <rect key="frame" x="0.0" y="0.0" width="240" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QW9-mn-vXn">
@@ -193,8 +196,8 @@
                                                         <mask key="constraints">
                                                             <exclude reference="HEq-hp-Zzm"/>
                                                             <exclude reference="M7t-Y6-fRH"/>
-                                                            <exclude reference="LQL-78-KkN"/>
                                                             <exclude reference="6hT-K8-PBH"/>
+                                                            <exclude reference="LQL-78-KkN"/>
                                                         </mask>
                                                     </variation>
                                                     <variation key="widthClass=compact">
@@ -205,8 +208,8 @@
                                                         <mask key="constraints">
                                                             <include reference="HEq-hp-Zzm"/>
                                                             <include reference="M7t-Y6-fRH"/>
-                                                            <include reference="LQL-78-KkN"/>
                                                             <include reference="6hT-K8-PBH"/>
+                                                            <include reference="LQL-78-KkN"/>
                                                         </mask>
                                                     </variation>
                                                 </tableViewCellContentView>
@@ -215,6 +218,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="IjY-81-CpE" id="x0E-ed-sDO">
+                                                    <rect key="frame" x="0.0" y="0.0" width="240" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eCh-e1-dWr">
@@ -264,6 +268,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="iCy-cL-bt2" id="Gue-Z0-aM9">
+                                                    <rect key="frame" x="0.0" y="0.0" width="240" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XUF-kz-AF6">
@@ -385,6 +390,7 @@
                                 <exclude reference="dIY-KE-ol5"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="nTU-aJ-269"/>
                                 <exclude reference="2my-9O-12P"/>
                                 <exclude reference="BZo-oF-HAG"/>
                                 <exclude reference="FWM-ue-P6v"/>
@@ -392,7 +398,6 @@
                                 <exclude reference="XBK-Lg-xBL"/>
                                 <exclude reference="y5v-zP-fEk"/>
                                 <exclude reference="ygB-th-eC1"/>
-                                <exclude reference="nTU-aJ-269"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -400,6 +405,7 @@
                                 <include reference="dIY-KE-ol5"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="nTU-aJ-269"/>
                                 <include reference="2my-9O-12P"/>
                                 <exclude reference="BZo-oF-HAG"/>
                                 <exclude reference="FWM-ue-P6v"/>
@@ -407,16 +413,15 @@
                                 <include reference="XBK-Lg-xBL"/>
                                 <include reference="y5v-zP-fEk"/>
                                 <include reference="ygB-th-eC1"/>
-                                <exclude reference="nTU-aJ-269"/>
                             </mask>
                         </variation>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Mais" id="5gv-XG-oBZ"/>
+                    <tabBarItem key="tabBarItem" systemItem="more" id="5gv-XG-oBZ"/>
                     <navigationItem key="navigationItem" title="Mais" id="cZe-dJ-As3"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aNr-5Q-ffm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="828" y="-719"/>
+            <point key="canvasLocation" x="1584" y="-719"/>
         </scene>
         <!--Consulta-->
         <scene sceneID="572-6x-xwP">
@@ -518,15 +523,35 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
                     <connections>
-                        <segue destination="qyO-hh-djH" kind="relationship" relationship="viewControllers" id="BNO-0t-JKx"/>
                         <segue destination="tp4-jE-BtY" kind="relationship" relationship="viewControllers" id="u62-rh-EEa"/>
+                        <segue destination="qyO-hh-djH" kind="relationship" relationship="viewControllers" id="BNO-0t-JKx"/>
                         <segue destination="8O7-X0-vGs" kind="relationship" relationship="viewControllers" id="0Z4-YQ-zCl"/>
+                        <segue destination="Jd5-D9-7Oo" kind="relationship" relationship="viewControllers" id="oq4-8w-dFs"/>
                         <segue destination="0tG-7o-HVm" kind="relationship" relationship="viewControllers" id="glf-eP-XgP"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6si-oq-rmR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1320" y="-2100"/>
+        </scene>
+        <!--Estatísticas-->
+        <scene sceneID="wUf-Zv-Xta">
+            <objects>
+                <viewController title="Estatísticas" id="Jd5-D9-7Oo" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="QpY-6W-wGs"/>
+                        <viewControllerLayoutGuide type="bottom" id="9J8-tY-QG2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="QwY-9d-pES">
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Estatísticas" id="uTq-ox-uu9"/>
+                    <navigationItem key="navigationItem" title="Estatísticas" id="E8y-J1-gGD"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Cmf-P0-Suj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="640.5" y="-719"/>
         </scene>
     </scenes>
 </document>

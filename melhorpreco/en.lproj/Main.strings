@@ -1,0 +1,60 @@
+
+/* Class = "UIViewController"; title = "Consulta"; ObjectID = "8O7-X0-vGs"; */
+"8O7-X0-vGs.title" = "Consulta";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "C89-Hz-6wa"; */
+"C89-Hz-6wa.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Conta"; ObjectID = "QW9-mn-vXn"; */
+"QW9-mn-vXn.text" = "Conta";
+
+/* Class = "UITabBarItem"; title = "Comprar"; ObjectID = "R1B-Oy-uOg"; */
+"R1B-Oy-uOg.title" = "Comprar";
+
+/* Class = "UILabel"; text = "Conta"; ObjectID = "SAV-j0-1SA"; */
+"SAV-j0-1SA.text" = "Conta";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "TBL-C5-xaU"; */
+"TBL-C5-xaU.normalTitle" = ">";
+
+/* Class = "UINavigationItem"; title = "Consulta"; ObjectID = "Tdc-FE-oWg"; */
+"Tdc-FE-oWg.title" = "Consulta";
+
+/* Class = "UILabel"; text = "Conta"; ObjectID = "XUF-kz-AF6"; */
+"XUF-kz-AF6.text" = "Conta";
+
+/* Class = "UITabBarItem"; title = "Lista"; ObjectID = "YoT-Q9-mcJ"; */
+"YoT-Q9-mcJ.title" = "Lista";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "cEZ-bi-ueB"; */
+"cEZ-bi-ueB.normalTitle" = ">";
+
+/* Class = "UINavigationItem"; title = "Mais"; ObjectID = "cZe-dJ-As3"; */
+"cZe-dJ-As3.title" = "Mais";
+
+/* Class = "UILabel"; text = "Conta"; ObjectID = "eCh-e1-dWr"; */
+"eCh-e1-dWr.text" = "Conta";
+
+/* Class = "UINavigationItem"; title = "Lista"; ObjectID = "iKV-6k-6ow"; */
+"iKV-6k-6ow.title" = "Lista";
+
+/* Class = "UILabel"; text = "Conta"; ObjectID = "jum-hc-0du"; */
+"jum-hc-0du.text" = "Conta";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "nhS-PD-dod"; */
+"nhS-PD-dod.normalTitle" = ">";
+
+/* Class = "UINavigationItem"; prompt = "Comprar"; ObjectID = "ocX-Tg-3zC"; */
+"ocX-Tg-3zC.prompt" = "Comprar";
+
+/* Class = "UINavigationItem"; title = "Comprar"; ObjectID = "ocX-Tg-3zC"; */
+"ocX-Tg-3zC.title" = "Comprar";
+
+/* Class = "UIViewController"; title = "Comprar"; ObjectID = "qyO-hh-djH"; */
+"qyO-hh-djH.title" = "Comprar";
+
+/* Class = "UIViewController"; title = "Lista"; ObjectID = "tp4-jE-BtY"; */
+"tp4-jE-BtY.title" = "Lista";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "vV4-1u-dNV"; */
+"vV4-1u-dNV.normalTitle" = ">";
