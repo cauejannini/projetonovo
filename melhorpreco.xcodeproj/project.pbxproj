@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		94D471811D04A90A005D6E42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D471801D04A90A005D6E42 /* AppDelegate.swift */; };
+		94D471831D04A90A005D6E42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D471821D04A90A005D6E42 /* ViewController.swift */; };
+		94D471861D04A90A005D6E42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94D471841D04A90A005D6E42 /* Main.storyboard */; };
+		94D471881D04A90A005D6E42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94D471871D04A90A005D6E42 /* Assets.xcassets */; };
+		94D4718B1D04A90A005D6E42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94D471891D04A90A005D6E42 /* LaunchScreen.storyboard */; };
+		94D471961D04A90A005D6E42 /* melhorprecoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D471951D04A90A005D6E42 /* melhorprecoTests.swift */; };
+		94D471A11D04A90A005D6E42 /* melhorprecoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D471A01D04A90A005D6E42 /* melhorprecoUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		94D471921D04A90A005D6E42 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94D471751D04A90A005D6E42 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94D4717C1D04A90A005D6E42;
+			remoteInfo = melhorpreco;
+		};
+		94D4719D1D04A90A005D6E42 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94D471751D04A90A005D6E42 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94D4717C1D04A90A005D6E42;
+			remoteInfo = melhorpreco;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		94D4717D1D04A90A005D6E42 /* melhorpreco.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = melhorpreco.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		94D471801D04A90A005D6E42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		94D471821D04A90A005D6E42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		94D471851D04A90A005D6E42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		94D471871D04A90A005D6E42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94D4718A1D04A90A005D6E42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		94D4718C1D04A90A005D6E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94D471911D04A90A005D6E42 /* melhorprecoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = melhorprecoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94D471951D04A90A005D6E42 /* melhorprecoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = melhorprecoTests.swift; sourceTree = "<group>"; };
+		94D471971D04A90A005D6E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94D4719C1D04A90A005D6E42 /* melhorprecoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = melhorprecoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94D471A01D04A90A005D6E42 /* melhorprecoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = melhorprecoUITests.swift; sourceTree = "<group>"; };
+		94D471A21D04A90A005D6E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94D4717A1D04A90A005D6E42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D4718E1D04A90A005D6E42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D471991D04A90A005D6E42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		94D471741D04A90A005D6E42 = {
+			isa = PBXGroup;
+			children = (
+				94D4717F1D04A90A005D6E42 /* melhorpreco */,
+				94D471941D04A90A005D6E42 /* melhorprecoTests */,
+				94D4719F1D04A90A005D6E42 /* melhorprecoUITests */,
+				94D4717E1D04A90A005D6E42 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		94D4717E1D04A90A005D6E42 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				94D4717D1D04A90A005D6E42 /* melhorpreco.app */,
+				94D471911D04A90A005D6E42 /* melhorprecoTests.xctest */,
+				94D4719C1D04A90A005D6E42 /* melhorprecoUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		94D4717F1D04A90A005D6E42 /* melhorpreco */ = {
+			isa = PBXGroup;
+			children = (
+				94D471801D04A90A005D6E42 /* AppDelegate.swift */,
+				94D471821D04A90A005D6E42 /* ViewController.swift */,
+				94D471841D04A90A005D6E42 /* Main.storyboard */,
+				94D471871D04A90A005D6E42 /* Assets.xcassets */,
+				94D471891D04A90A005D6E42 /* LaunchScreen.storyboard */,
+				94D4718C1D04A90A005D6E42 /* Info.plist */,
+			);
+			path = melhorpreco;
+			sourceTree = "<group>";
+		};
+		94D471941D04A90A005D6E42 /* melhorprecoTests */ = {
+			isa = PBXGroup;
+			children = (
+				94D471951D04A90A005D6E42 /* melhorprecoTests.swift */,
+				94D471971D04A90A005D6E42 /* Info.plist */,
+			);
+			path = melhorprecoTests;
+			sourceTree = "<group>";
+		};
+		94D4719F1D04A90A005D6E42 /* melhorprecoUITests */ = {
+			isa = PBXGroup;
+			children = (
+				94D471A01D04A90A005D6E42 /* melhorprecoUITests.swift */,
+				94D471A21D04A90A005D6E42 /* Info.plist */,
+			);
+			path = melhorprecoUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		94D4717C1D04A90A005D6E42 /* melhorpreco */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94D471A51D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorpreco" */;
+			buildPhases = (
+				94D471791D04A90A005D6E42 /* Sources */,
+				94D4717A1D04A90A005D6E42 /* Frameworks */,
+				94D4717B1D04A90A005D6E42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = melhorpreco;
+			productName = melhorpreco;
+			productReference = 94D4717D1D04A90A005D6E42 /* melhorpreco.app */;
+			productType = "com.apple.product-type.application";
+		};
+		94D471901D04A90A005D6E42 /* melhorprecoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94D471A81D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorprecoTests" */;
+			buildPhases = (
+				94D4718D1D04A90A005D6E42 /* Sources */,
+				94D4718E1D04A90A005D6E42 /* Frameworks */,
+				94D4718F1D04A90A005D6E42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94D471931D04A90A005D6E42 /* PBXTargetDependency */,
+			);
+			name = melhorprecoTests;
+			productName = melhorprecoTests;
+			productReference = 94D471911D04A90A005D6E42 /* melhorprecoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		94D4719B1D04A90A005D6E42 /* melhorprecoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94D471AB1D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorprecoUITests" */;
+			buildPhases = (
+				94D471981D04A90A005D6E42 /* Sources */,
+				94D471991D04A90A005D6E42 /* Frameworks */,
+				94D4719A1D04A90A005D6E42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94D4719E1D04A90A005D6E42 /* PBXTargetDependency */,
+			);
+			name = melhorprecoUITests;
+			productName = melhorprecoUITests;
+			productReference = 94D4719C1D04A90A005D6E42 /* melhorprecoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		94D471751D04A90A005D6E42 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = gonzalezjannini;
+				TargetAttributes = {
+					94D4717C1D04A90A005D6E42 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					94D471901D04A90A005D6E42 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 94D4717C1D04A90A005D6E42;
+					};
+					94D4719B1D04A90A005D6E42 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 94D4717C1D04A90A005D6E42;
+					};
+				};
+			};
+			buildConfigurationList = 94D471781D04A90A005D6E42 /* Build configuration list for PBXProject "melhorpreco" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 94D471741D04A90A005D6E42;
+			productRefGroup = 94D4717E1D04A90A005D6E42 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94D4717C1D04A90A005D6E42 /* melhorpreco */,
+				94D471901D04A90A005D6E42 /* melhorprecoTests */,
+				94D4719B1D04A90A005D6E42 /* melhorprecoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		94D4717B1D04A90A005D6E42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94D4718B1D04A90A005D6E42 /* LaunchScreen.storyboard in Resources */,
+				94D471881D04A90A005D6E42 /* Assets.xcassets in Resources */,
+				94D471861D04A90A005D6E42 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D4718F1D04A90A005D6E42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D4719A1D04A90A005D6E42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94D471791D04A90A005D6E42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94D471831D04A90A005D6E42 /* ViewController.swift in Sources */,
+				94D471811D04A90A005D6E42 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D4718D1D04A90A005D6E42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94D471961D04A90A005D6E42 /* melhorprecoTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94D471981D04A90A005D6E42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94D471A11D04A90A005D6E42 /* melhorprecoUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		94D471931D04A90A005D6E42 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94D4717C1D04A90A005D6E42 /* melhorpreco */;
+			targetProxy = 94D471921D04A90A005D6E42 /* PBXContainerItemProxy */;
+		};
+		94D4719E1D04A90A005D6E42 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94D4717C1D04A90A005D6E42 /* melhorpreco */;
+			targetProxy = 94D4719D1D04A90A005D6E42 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		94D471841D04A90A005D6E42 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94D471851D04A90A005D6E42 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		94D471891D04A90A005D6E42 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94D4718A1D04A90A005D6E42 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		94D471A31D04A90A005D6E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		94D471A41D04A90A005D6E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		94D471A61D04A90A005D6E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = melhorpreco/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorpreco;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		94D471A71D04A90A005D6E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = melhorpreco/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorpreco;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		94D471A91D04A90A005D6E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = melhorprecoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorprecoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/melhorpreco.app/melhorpreco";
+			};
+			name = Debug;
+		};
+		94D471AA1D04A90A005D6E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = melhorprecoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorprecoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/melhorpreco.app/melhorpreco";
+			};
+			name = Release;
+		};
+		94D471AC1D04A90A005D6E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = melhorprecoUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorprecoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = melhorpreco;
+			};
+			name = Debug;
+		};
+		94D471AD1D04A90A005D6E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = melhorprecoUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = gonzalezjannini.melhorprecoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = melhorpreco;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		94D471781D04A90A005D6E42 /* Build configuration list for PBXProject "melhorpreco" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94D471A31D04A90A005D6E42 /* Debug */,
+				94D471A41D04A90A005D6E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94D471A51D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorpreco" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94D471A61D04A90A005D6E42 /* Debug */,
+				94D471A71D04A90A005D6E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		94D471A81D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorprecoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94D471A91D04A90A005D6E42 /* Debug */,
+				94D471AA1D04A90A005D6E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		94D471AB1D04A90A005D6E42 /* Build configuration list for PBXNativeTarget "melhorprecoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94D471AC1D04A90A005D6E42 /* Debug */,
+				94D471AD1D04A90A005D6E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 94D471751D04A90A005D6E42 /* Project object */;
+}
